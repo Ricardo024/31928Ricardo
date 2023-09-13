@@ -1,0 +1,17 @@
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font: size 3px;
+    background-color: #33475C;
+    color: white;
+}
+body{
+    background-color: #7305d3;
+}
