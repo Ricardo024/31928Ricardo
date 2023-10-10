@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(153, 155, 159);
+    text-align: center;
+}       
+button{
+    background-color: red;
+}
+button:hover{
+    background-color: rgb(41, 199, 65);
+}
+
+label{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.ventana{
+    background: rgb(90, 141, 222);
+    text-align: center;
+    border: 7px solid rgb(40, 36, 36);  /*borde:tamaño,tipo y color*/
+    box-shadow: 5px 5px 5px rgb(210, 208, 222);
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.tamaño{
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
